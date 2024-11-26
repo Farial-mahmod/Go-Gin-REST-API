@@ -1,6 +1,6 @@
-module GoGinRESTAPI
+module github.com/Farial-mahmod/Go-Gin-REST-API
 
-go 1.23.3
+go 1.23
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
